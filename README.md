@@ -33,3 +33,5 @@ or
 ```
 ruby export.rb 3123413d34c67d94234240c5b73edf8fdas23c73 1234
 ```
+
+The conversations will be exported to a file conversations_<mailbox id>.csv
